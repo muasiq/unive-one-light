@@ -1,9 +1,9 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  title: "Unive One is the most intuitive way to manage your instituition"
+  button: "Get Unive One"
+  button_link: "https://unive.one/contact"
   image: "images/banner-app.png"
 
 
@@ -29,34 +29,28 @@ features:
   enable: true
   subtitle: "Special Features"
   title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  description: "All the workflows under one platform."
   features_blocks:
   - icon: "las la-lock"
     title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "You can be trust on us about the state of the art security to protect your data"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Keep everything in one place"
+    content: "Whether it is student database,guardian databaase,employee database; Your data is always with you"
   - icon: "las la-tachometer-alt"
     title: "Secured &amp; up-to-date"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "All the latest technology to ease your works"
   - icon: "las la-link"
     title: "Instant Link Sharing"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-
+    content: "Keep track of the fees paid and unpaid and get insights from the data"
+\
 
 # intro_video
 intro_video:   
   enable: true
   subtitle: "Short Intro Video"
   title: "Built exclusively for you"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  description: "We have extensively studied to identify your pain points and time hogs and addressed those pain points to increase system efficiency"
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
   video_thumbnail: "images/video-popup.jpg"
 
@@ -66,13 +60,13 @@ how_it_works:
   enable: true
   block:
   - subtitle: "Primary Speciality"
-    title: "You Will Not miss Your All misunderstandings"
-    description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
+    title: "Customizability"
+    description: "Customize the whole suite according to your needs so you feel at home"
     image: "images/features-01.png"
 
   - subtitle: "Secondary Speciality"
     title: "Say hello to no-code The Advance Creation"
-    description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+    description: "From the simplest of interactions to those that use Excel-gradeing formulas, Unive can handle them all"
     image: "images/features-02.png"
 
 
@@ -81,39 +75,25 @@ testimonials:
   enable: true
   subtitle: "Our Testimonials"
   title: "Don't take our word for it"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  description: "Do not miss the opportunity to try our demo"
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
   
   testimonials_quotes:
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Unive one decreased our manhours to half"
+    name: "Atiqur Rahman"
+    designation: "Chairman, Medhakunja Model School"
     image: "images/user-img/05-i.jpg"
 
-  - quote: "Conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "We are getting intelligent insights through unive one dashboard to prioritize things"
+    name: "Samia Atique"
+    designation: "Principal, Oxford International School"
     image: "images/user-img/06-i.jpg"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "We do not need to call meetings for trivial stuffs, We can get all the information right from the dashboard"
+    name: "Mojammel Hossain"
+    designation: "Head Master, Isphanai Ideal School"
     image: "images/user-img/07-i.jpg"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/08-i.jpg"
-
-  - quote: "Lorem ipsum dolor ame conseetur. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/09-i.jpg"
-
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/10-i.jpg"
 
 ---
