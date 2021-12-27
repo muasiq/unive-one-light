@@ -64,7 +64,7 @@ how_it_works:
     image: "images/features-01.png"
 
   - subtitle: "Secondary Speciality"
-    title: "Say hello to no-code The Advance Creation"
+    title: "Everything Automated"
     description: "From the simplest of interactions to those that use Excel-gradeing formulas, Unive can handle them all"
     image: "images/features-02.png"
 
