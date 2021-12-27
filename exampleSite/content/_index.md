@@ -43,7 +43,6 @@ features:
   - icon: "las la-link"
     title: "Instant Link Sharing"
     content: "Keep track of the fees paid and unpaid and get insights from the data"
-\
 
 # intro_video
 intro_video:   
