@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: "about"
-draft: false
+draft: true
 
 # who_we_are
 who_we_are:
