@@ -47,7 +47,7 @@ features:
 # intro_video
 intro_video:   
   enable: true
-  subtitle: "Short Intro Video"
+  <!-- subtitle: "Short Intro Video" -->
   title: "Built exclusively for you"
   description: "We have extensively studied to identify your pain points and time hogs and addressed those pain points to increase system efficiency"
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
@@ -58,12 +58,12 @@ intro_video:
 how_it_works:   
   enable: true
   block:
-  - subtitle: "Primary Speciality"
+  - <!-- subtitle: "Primary Speciality" -->
     title: "Customizability"
     description: "Customize the whole suite according to your needs so you feel at home"
     image: "images/features-01.png"
 
-  - subtitle: "Secondary Speciality"
+  - <!-- subtitle: "Secondary Speciality" -->
     title: "Everything Automated"
     description: "From the simplest of interactions to those that use Excel-gradeing formulas, Unive can handle them all"
     image: "images/features-02.png"
@@ -72,7 +72,7 @@ how_it_works:
 # testimonials
 testimonials:   
   enable: true
-  subtitle: "Our Testimonials"
+  <!-- subtitle: "Our Testimonials" -->
   title: "Don't take our word for it"
   description: "Do not miss the opportunity to try our demo"
   image_left: "images/testimonials-01.png"
