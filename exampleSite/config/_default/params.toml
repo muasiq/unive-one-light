@@ -8,7 +8,7 @@ logo_width = "50x"
 # logo text will only show when logo is missing.
 logo_text = "Unive One"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "SAAS"
 author = "Unive One"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
