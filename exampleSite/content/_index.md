@@ -13,8 +13,8 @@ brands_carousel:
   brand_images:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"
-  - "images/brands/04-colored.png"
   - "images/brands/03-colored.png"
+
 
 
 
