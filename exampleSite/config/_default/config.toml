@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/andromeda-light/"
-title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
-theme = "andromeda-light"
+baseURL = "https://unive.one"
+title = "Unive One - Future of School Management"
+theme = "unive-one-light"
 # post pagination
 paginate = "6"
 # post excerpt
