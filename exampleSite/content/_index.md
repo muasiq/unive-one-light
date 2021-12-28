@@ -44,7 +44,7 @@ intro_video:
   subtitle: ""
   title: "Built exclusively for you"
   description: "We have extensively studied to identify your pain points and time hogs and addressed those pain points to increase system efficiency"
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+  video_url: "https://www.youtube.com/watch?v=20QUNgFIrK0"
   video_thumbnail: "images/video-popup.jpg"
 
 
