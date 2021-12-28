@@ -71,15 +71,15 @@ button_link = "https://unive.one/contact"
 [[social]]
 title = "Unive one"
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-link = "#!"
+link = "https://facebook.com/unive.one"
 
 [[social]]
-title = "UniveoneTweet"
+title = "Unive one"
 icon = "lab la-twitter" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "UniveoneIn"
+title = "Unive one"
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
 link = "#!"
 
