@@ -63,7 +63,7 @@ how_it_works:
     description: "Customize the whole suite according to your needs so you feel at home"
     image: "images/features-01.png"
 
-  - subtitle: "Secondary Speciality"
+  - subtitle: ""
     title: "Everything Automated"
     description: "From the simplest of interactions to those that use Excel-gradeing formulas, Unive can handle them all"
     image: "images/features-02.png"
