@@ -63,7 +63,7 @@ button = "I Accept"
 [cta]
 enable = true
 title = "Get Unive One Now"
-content = "Automate all your instituition's workflow"
+content = "Automate your instituition's workflow"
 button = "Try a Demo"
 button_link = "https://unive.one/contact"
 
