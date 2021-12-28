@@ -15,19 +15,13 @@ brands_carousel:
   - "images/brands/02-colored.png"
   - "images/brands/04-colored.png"
   - "images/brands/03-colored.png"
-  - "images/brands/05-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/01-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/05-colored.png"
+
 
 
 # features
 features:
   enable: true
-  subtitle: "Special Features"
+  subtitle: ""
   title: "Elements to <br> get you started"
   description: "All the workflows under one platform."
   features_blocks:
