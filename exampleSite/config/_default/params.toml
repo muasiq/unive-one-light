@@ -19,7 +19,7 @@ footer_info = "Future of School Management"
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
 
 # copyright
-copyright = "@2022 Unive One, All Rights Reserved"
+copyright = "@2022 Unive One, All Rights Reserved."
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
@@ -69,17 +69,17 @@ button_link = "https://unive.one/contact"
 
 ############################# social site ########################
 [[social]]
-title = "Unive one"
+title = "Unive One"
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
 link = "https://facebook.com/unive.one"
 
 [[social]]
-title = "Unive one"
+title = "Unive One"
 icon = "lab la-twitter" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "Unive one"
+title = "Unive One"
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
 link = "#!"
 
