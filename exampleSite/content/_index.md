@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Unive One automates your workflow so you can focus on the big picture"
+  title: "Unive One automates your instituition's workflow so you can focus on the big picture"
   button: "Get Unive One"
   button_link: "https://unive.one/contact"
   image: "images/banner-app.png"
@@ -29,10 +29,10 @@ features:
     title: "Updated Security"
     content: "You can be trust on us about the state of the art security to protect your data"
   - icon: "las la-magnet"
-    title: "Keep everything in one place"
-    content: "Whether it is student database,guardian databaase,employee database; Your data is always with you"
+    title: "Keep Everything in One Place"
+    content: "Whether it is Student database, Guardian databaase, Employee database; Your data is always with you"
   - icon: "las la-tachometer-alt"
-    title: "Always Up-to-date"
+    title: "Always Up-to-Date"
     content: "All the latest technology and lifetime updates to ease your works"
   - icon: "las la-link"
     title: "Insightful Metrics"
