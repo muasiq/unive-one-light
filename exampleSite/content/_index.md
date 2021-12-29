@@ -59,7 +59,7 @@ how_it_works:
 
   - subtitle: ""
     title: "Everything Automated"
-    description: "From the simplest of interactions to those that use Excel-gradeing formulas, Unive can handle them all"
+    description: "From the simplest of processing to those that use complex workflows, Unive can handle them all"
     image: "images/features-02.png"
 
 
@@ -68,24 +68,24 @@ testimonials:
   enable: true
   subtitle: ""
   title: "Don't take our word for it"
-  description: "Do not miss the opportunity to try our demo"
+  description: "Book a demo to know more about Unive One"
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
   
   testimonials_quotes:
   - quote: "Unive one decreased our manhours to half"
-    name: "Atiqur Rahman"
-    designation: "Chairman, Medhakunja Model School"
+    name: "-Governing Body"
+    designation: "Medhakunja Model School"
     image: "images/user-img/05-i.jpg"
 
   - quote: "We are getting intelligent insights through unive one dashboard to prioritize things"
-    name: "Samia Atique"
-    designation: "Principal, Oxford International School"
+    name: "-Chairman"
+    designation: "Northern Education Group"
     image: "images/user-img/06-i.jpg"
 
   - quote: "We do not need to call meetings for trivial stuffs, We can get all the information right from the dashboard"
-    name: "Mojammel Hossain"
-    designation: "Head Master, Isphanai Ideal School"
+    name: "-Principal"
+    designation: "Isphanai Ideal College"
     image: "images/user-img/07-i.jpg"
 
 
