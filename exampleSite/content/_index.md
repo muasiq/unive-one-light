@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Unive One is the most intuitive way to manage your instituition"
+  title: "Unive One automates your workflow so you can focus on the big picture"
   button: "Get Unive One"
   button_link: "https://unive.one/contact"
   image: "images/banner-app.png"
@@ -22,7 +22,7 @@ brands_carousel:
 features:
   enable: true
   subtitle: ""
-  title: "Elements to <br> get you started"
+  title: "Why Unive One"
   description: "All the workflows under one platform."
   features_blocks:
   - icon: "las la-lock"
@@ -32,19 +32,19 @@ features:
     title: "Keep everything in one place"
     content: "Whether it is student database,guardian databaase,employee database; Your data is always with you"
   - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
-    content: "All the latest technology to ease your works"
+    title: "Always Up-to-date"
+    content: "All the latest technology and lifetime updates to ease your works"
   - icon: "las la-link"
-    title: "Instant Link Sharing"
-    content: "Keep track of the fees paid and unpaid and get insights from the data"
+    title: "Insightful Metrics"
+    content: "Find relationship between events to make better decisions"
 
 # intro_video
 intro_video:   
   enable: true
   subtitle: ""
   title: "Built exclusively for you"
-  description: "We have extensively studied to identify your pain points and time hogs and addressed those pain points to increase system efficiency"
-  video_url: "https://www.youtube.com/watch?v=20QUNgFIrK0"
+  description: "We have extensively studied to identify major pain points and time hogs in instituitions and addressed those pain points to increase system efficiency"
+  video_url: "https://www.youtube.com/embed/20QUNgFIrK0"
   video_thumbnail: "images/video-popup.jpg"
 
 
