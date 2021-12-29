@@ -16,7 +16,7 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 footer_info = "Future of School Management"
 
 # contact form action
-contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xqknapdv" # contact form works with https://formspree.io
 
 # copyright
 copyright = "@2022 Unive One, All Rights Reserved."
