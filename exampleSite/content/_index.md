@@ -27,7 +27,7 @@ features:
   features_blocks:
   - icon: "las la-lock"
     title: "Updated Security"
-    content: "You can be trust on us about the state of the art security to protect your data"
+    content: "You can trust on us with the industry grade security to protect your data"
   - icon: "las la-magnet"
     title: "Keep Everything in One Place"
     content: "Whether it is Student database, Guardian databaase, Employee database; Your data is always with you"
