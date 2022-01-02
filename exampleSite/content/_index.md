@@ -27,23 +27,23 @@ features:
   features_blocks:
   - icon: "las la-lock"
     title: "Updated Security"
-    content: "You can trust on us with the industry grade security to protect your data"
+    content: "You can trust on us with the industry grade security to protect your data."
   - icon: "las la-magnet"
     title: "Keep Everything in One Place"
-    content: "Whether it is Student database, Guardian databaase, Employee database; Your data is always with you"
+    content: "Whether it is Student database, Guardian databaase, Employee database; Your data is always with you."
   - icon: "las la-tachometer-alt"
     title: "Always Up-to-Date"
-    content: "All the latest technology and lifetime updates to ease your works"
+    content: "All the latest technology and lifetime updates to ease your works."
   - icon: "las la-link"
     title: "Insightful Metrics"
-    content: "Find relationship between events to make better decisions"
+    content: "Find relationship between events to make better decisions."
 
 # intro_video
 intro_video:   
   enable: true
   subtitle: ""
   title: "Built exclusively for you"
-  description: "We have extensively studied to identify major pain points and time hogs in instituitions and addressed those pain points to increase system efficiency"
+  description: "We have extensively studied to identify major pain points and time hogs in instituitions and addressed those pain points to increase system efficiency."
   video_url: "https://www.youtube.com/embed/20QUNgFIrK0"
   video_thumbnail: "images/video-popup.jpg"
 
@@ -54,12 +54,12 @@ how_it_works:
   block:
   - subtitle: ""
     title: "Customizability"
-    description: "Customize the whole suite according to your needs so you feel at home"
+    description: "Customize the whole suite according to your needs so you feel at home."
     image: "images/features-01.png"
 
   - subtitle: ""
     title: "Everything Automated"
-    description: "From the simplest of processing to those that use complex workflows, Unive can handle them all"
+    description: "From the simplest of processing to those that use complex workflows, Unive can handle them all."
     image: "images/features-02.png"
 
 
