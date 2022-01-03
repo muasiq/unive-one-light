@@ -50,7 +50,7 @@ preloader = "images/preloader.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Try Demo"
-link = "https://unive.one/contact"
+link = "http://demo.unive.one"
 
 # cookies
 [cookies]
@@ -65,7 +65,7 @@ enable = true
 title = "Get Unive One Now"
 content = "Automate your instituition's workflow"
 button = "Try a Demo"
-button_link = "https://unive.one/contact"
+button_link = "http://demo.unive.one"
 
 ############################# social site ########################
 [[social]]
