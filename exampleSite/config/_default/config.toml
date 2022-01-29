@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://unive.one"
-title = "Unive One - Future of School Management"
+title = "Unive One - Future of Instituition Management"
 theme = "unive-one-light"
 # post pagination
 paginate = "6"
