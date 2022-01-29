@@ -13,7 +13,7 @@ author = "Unive One"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 # footer information
-footer_info = "Future of School Management"
+footer_info = "Future of Instituition Management"
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xqknapdv" # contact form works with https://formspree.io
@@ -75,13 +75,18 @@ link = "https://facebook.com/unive.one"
 
 [[social]]
 title = "Unive One"
-icon = "lab la-twitter" # https://icons8.com/line-awesome
+icon = "lab la-youtube-in" # https://icons8.com/line-awesome
 link = "#!"
 
-[[social]]
-title = "Unive One"
-icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-link = "#!"
+# [[social]]
+# title = "Unive One"
+# icon = "lab la-twitter" # https://icons8.com/line-awesome
+# link = "#!"
+
+#[[social]]
+#title = "Unive One"
+#icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
+#link = "#!"
 
 #[[social]]
 #title = "AndromedaPin"
